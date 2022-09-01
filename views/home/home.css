@@ -1,0 +1,17 @@
+@import url("https://fonts.googleapis.com/css2?family=Open+Sans:wght@600&display=swap");
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  background-color: black;
+  overflow: hidden;
+}
+
+#main-title {
+  color: white;
+  font-family: "Open Sans", "Times New Roman", Times, serif;
+  font-size: 2.5rem;
+  text-align: center;
+}

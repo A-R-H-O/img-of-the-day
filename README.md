@@ -1,6 +1,6 @@
 # img-of-the-day
 The offical source code of imgoftheday.com.
-##Packages
+## Packages
 Please assure you have the following packages installed:
 - Axios
 - Dotenv
